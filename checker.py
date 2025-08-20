@@ -574,4 +574,6 @@ try:
     print(f" [×] Followers: {followers}")
     print(f" [×] Likes: {likes}")
     print(f" [×] Coins: {coins}")
-    print(f" [×] SID: {sessi
+    print(f" [×] SID: {sessionid}")
+except Exception as e:
+    print(f"[-] Error: {e}")
