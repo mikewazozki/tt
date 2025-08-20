@@ -576,4 +576,5 @@ try:
     print(f" [×] Coins: {coins}")
     print(f" [×] SID: {sessionid}")
 except Exception as e:
-    print(f"[-] Error: {e}")
+    print(f"[-] An unexpected error occurred: {e}")
+    exit(exceptxceptxcept
