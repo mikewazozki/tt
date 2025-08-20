@@ -577,4 +577,4 @@ try:
     print(f" [×] SID: {sessionid}")
 except Exception as e:
     print(f"[-] An unexpected error occurred: {e}")
-    exit(exceptxceptxcept
+    exit()
